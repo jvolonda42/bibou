@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bibou/static/css/main.b4b08f93.chunk.css",
+    "main.js": "/bibou/static/js/main.63b99661.chunk.js",
+    "main.js.map": "/bibou/static/js/main.63b99661.chunk.js.map",
+    "runtime-main.js": "/bibou/static/js/runtime-main.9a1ea2b4.js",
+    "runtime-main.js.map": "/bibou/static/js/runtime-main.9a1ea2b4.js.map",
+    "static/js/2.1e48b69c.chunk.js": "/bibou/static/js/2.1e48b69c.chunk.js",
+    "static/js/2.1e48b69c.chunk.js.map": "/bibou/static/js/2.1e48b69c.chunk.js.map",
+    "static/js/3.d8282378.chunk.js": "/bibou/static/js/3.d8282378.chunk.js",
+    "static/js/3.d8282378.chunk.js.map": "/bibou/static/js/3.d8282378.chunk.js.map",
+    "index.html": "/bibou/index.html",
+    "static/css/main.b4b08f93.chunk.css.map": "/bibou/static/css/main.b4b08f93.chunk.css.map",
+    "static/js/2.1e48b69c.chunk.js.LICENSE.txt": "/bibou/static/js/2.1e48b69c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a1ea2b4.js",
+    "static/js/2.1e48b69c.chunk.js",
+    "static/css/main.b4b08f93.chunk.css",
+    "static/js/main.63b99661.chunk.js"
+  ]
+}
