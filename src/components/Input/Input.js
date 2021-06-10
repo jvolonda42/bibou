@@ -14,7 +14,7 @@ function Input({ onFail, onSuccess }) {
     console.log({ value });
     setEnabled(false);
     if (enabled) {
-      if (value !== 'toto') {
+      if (value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '') !== 'toto') {
         onFail();
       } else {
         onSuccess();
