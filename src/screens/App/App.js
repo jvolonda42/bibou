@@ -50,8 +50,8 @@ function App() {
 
   const hints = [
     { hint: '407 filles portant ce prénom sont nées en 2019', breakpoint: 9 },
-    { hint: 'La 3è lettre est un E', breakpoint: 27 },
-    { hint: 'Ce prénom est célébré le 13 juillet dans la culture chrétienne', breakpoint: 18 },
+    { hint: 'La 3è lettre est un E', breakpoint: 18 },
+    { hint: 'Ce prénom est célébré le 13 juillet dans la culture chrétienne', breakpoint: 27 },
     { hint: 'La 1è lettre est un C', breakpoint: 36 },
     { hint: 'La 2è lettre est un L', breakpoint: 45 },
     { hint: 'La 4è lettre est un A', breakpoint: 54 },
