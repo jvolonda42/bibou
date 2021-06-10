@@ -1,0 +1,15 @@
+input {
+  display: inline-block;
+  margin: 1.2rem auto;
+  border: none;
+  padding: 0;
+  width: 6.5ch;
+  background: repeating-linear-gradient(90deg, dimgrey 0, dimgrey 1ch, transparent 0, transparent 1.5ch) 0 100%/ 6ch 2px no-repeat;
+  font: 3.2rem 'Ubuntu Mono', monospace;
+  letter-spacing: 0.5ch;
+}
+
+input:focus {
+  outline: none;
+  color: dodgerblue;
+}
