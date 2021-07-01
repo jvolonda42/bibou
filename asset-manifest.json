@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bibou/static/css/main.b4b08f93.chunk.css",
-    "main.js": "/bibou/static/js/main.701cea5b.chunk.js",
-    "main.js.map": "/bibou/static/js/main.701cea5b.chunk.js.map",
+    "main.js": "/bibou/static/js/main.2f53806f.chunk.js",
+    "main.js.map": "/bibou/static/js/main.2f53806f.chunk.js.map",
     "runtime-main.js": "/bibou/static/js/runtime-main.9a1ea2b4.js",
     "runtime-main.js.map": "/bibou/static/js/runtime-main.9a1ea2b4.js.map",
     "static/js/2.1e48b69c.chunk.js": "/bibou/static/js/2.1e48b69c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9a1ea2b4.js",
     "static/js/2.1e48b69c.chunk.js",
     "static/css/main.b4b08f93.chunk.css",
-    "static/js/main.701cea5b.chunk.js"
+    "static/js/main.2f53806f.chunk.js"
   ]
 }
